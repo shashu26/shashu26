@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Google+Cloud+Certified+Professional+Data+Engineer;7%2B+Years%3A+Hadoop+%E2%86%92+Cloud+Data+Engineering+%E2%86%92+Agentic+GenAI;Building+RAG+%2B+Agent+Systems+on+Vertex+AI+Agent+Engine;Currently%3A+Lead+Data+%26+AI+Engineer+%40+Perficient" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Google+Cloud+Certified+Professional+Data+Engineer;7%2B+Years%3A+Hadoop+%E2%86%92+Cloud+Data+Engineering+%E2%86%92+Agentic+GenAI;Building+RAG+%2B+Agent+Systems+on+Vertex+AI+Agent+Engine;9+Real%2C+Tested+Projects+%E2%80%94+Always+Building" alt="Typing SVG"/></a>
 
 </div>
 
@@ -110,19 +110,29 @@ Built scalable pipelines with Python, PySpark, HiveQL, and Presto for high-volum
 
 ## 🛠️ Featured Projects
 
-<div align="center">
+<div align="center"><i>9 real, independently tested projects — every one ships with a working test suite, not just a demo.</i></div>
+<br/>
 
-| Project | What it proves | Stack |
-|---|---|---|
-| **[llm-eval-harness](https://github.com/shashu26/llm-eval-harness)** | Golden-dataset regression testing for LLM systems — catches hallucinations, exits non-zero to gate CI deploys | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **[rag-chatbot-starter](https://github.com/shashu26/rag-chatbot-starter)** | Full RAG pipeline — chunking, pure-Python TF-IDF retrieval, grounded & cited answers | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **[agentic-task-planner](https://github.com/shashu26/agentic-task-planner)** | Goal decomposition into a dependency-ordered task graph, executed with real tools | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **[multi-agent-negotiator](https://github.com/shashu26/multi-agent-negotiator)** | Two agents negotiating over a typed A2A message protocol | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **[budget-buddy](https://github.com/shashu26/budget-buddy)** | Automatic expense categorization with budget-limit alerting | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+**🤖 Agentic AI & GenAI**
 
-*🔄 New projects added regularly — this table stays current.*
+| Project | What it proves |
+|---|---|
+| **[llm-eval-harness](https://github.com/shashu26/llm-eval-harness)** | Golden-dataset regression testing for LLM systems — catches hallucinations, exits non-zero to gate CI deploys |
+| **[rag-chatbot-starter](https://github.com/shashu26/rag-chatbot-starter)** | Full RAG pipeline — chunking, pure-Python TF-IDF retrieval, grounded & cited answers |
+| **[agentic-task-planner](https://github.com/shashu26/agentic-task-planner)** | Goal decomposition into a dependency-ordered task graph, executed with real tools |
+| **[multi-agent-negotiator](https://github.com/shashu26/multi-agent-negotiator)** | Two agents negotiating over a typed A2A message protocol |
+| **[agent-observability-stack](https://github.com/shashu26/agent-observability-stack)** | Real OpenTelemetry tracing — per-agent cost, latency, and failure attribution using GenAI semantic conventions |
 
-</div>
+**🏗️ Data Platform & Infrastructure**
+
+| Project | What it proves |
+|---|---|
+| **[terraform-gcp-data-stack](https://github.com/shashu26/terraform-gcp-data-stack)** | Reusable IaC modules (BigQuery + Composer + Dataflow + least-privilege IAM) |
+| **[data-quality-framework](https://github.com/shashu26/data-quality-framework)** | Schema drift, row-level rules, and anomaly detection — Great-Expectations-style |
+| **[cost-anomaly-detector](https://github.com/shashu26/cost-anomaly-detector)** | Rolling-baseline billing anomaly detection with SKU-level root-cause attribution |
+| **[budget-buddy](https://github.com/shashu26/budget-buddy)** | Automatic expense categorization with budget-limit alerting |
+
+*🔄 New projects added regularly — this list stays current.*
 
 ---
 
